@@ -1,0 +1,15 @@
+/Users/mac/Desktop/CSharp Seminar2/Point/bin/Debug/net6.0/Point
+/Users/mac/Desktop/CSharp Seminar2/Point/bin/Debug/net6.0/Point.deps.json
+/Users/mac/Desktop/CSharp Seminar2/Point/bin/Debug/net6.0/Point.runtimeconfig.json
+/Users/mac/Desktop/CSharp Seminar2/Point/bin/Debug/net6.0/Point.dll
+/Users/mac/Desktop/CSharp Seminar2/Point/bin/Debug/net6.0/Point.pdb
+/Users/mac/Desktop/CSharp Seminar2/Point/obj/Debug/net6.0/Point.csproj.AssemblyReference.cache
+/Users/mac/Desktop/CSharp Seminar2/Point/obj/Debug/net6.0/Point.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/CSharp Seminar2/Point/obj/Debug/net6.0/Point.AssemblyInfoInputs.cache
+/Users/mac/Desktop/CSharp Seminar2/Point/obj/Debug/net6.0/Point.AssemblyInfo.cs
+/Users/mac/Desktop/CSharp Seminar2/Point/obj/Debug/net6.0/Point.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/CSharp Seminar2/Point/obj/Debug/net6.0/Point.dll
+/Users/mac/Desktop/CSharp Seminar2/Point/obj/Debug/net6.0/refint/Point.dll
+/Users/mac/Desktop/CSharp Seminar2/Point/obj/Debug/net6.0/Point.pdb
+/Users/mac/Desktop/CSharp Seminar2/Point/obj/Debug/net6.0/Point.genruntimeconfig.cache
+/Users/mac/Desktop/CSharp Seminar2/Point/obj/Debug/net6.0/ref/Point.dll
