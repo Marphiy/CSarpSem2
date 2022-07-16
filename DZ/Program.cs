@@ -7,9 +7,15 @@
  
 void Point13()
 {
-    int num = new Random().Next(1, 1000000);
-    if (num >= 100) Console.WriteLine("Третья цифра случайного числа " + num + " это " + num / 100 % 10);
-    else Console.WriteLine("В числе " + num + " нет третей цифры");
+    int num1 = new Random().Next(0, 100000000);
+    int num2 = num1;
+    if (num2 > 1000) 
+    {
+        while (num2 > 1000) num2 = num2 / 10;
+        Console.WriteLine(num2);
+    }
+    Console.WriteLine("Третья цифра случайного числа " + num1 + " это " + num2 % 10);
+
 }
 
 void Point15()
