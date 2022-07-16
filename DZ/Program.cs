@@ -13,9 +13,9 @@ void Point13()
     {
         while (num2 > 1000) num2 = num2 / 10;
         Console.WriteLine(num2);
+        Console.WriteLine("Третья цифра (слева) случайного числа " + num1 + " это " + num2 % 10);
     }
-    Console.WriteLine("Третья цифра случайного числа " + num1 + " это " + num2 % 10);
-
+    else if (num1 < 100) Console.WriteLine("Третьeй цифы (слева) случайного числа " + num1 + " не существует");
 }
 
 void Point15()
@@ -31,5 +31,5 @@ void Point15()
 }
 
 //Point10();
-//Point13();
+Point13();
 //Point15();
